@@ -1,0 +1,7 @@
+{
+  "name": "Thai Express Canada",
+  "description": "A loyalty and ordering app for Thai Express, inspired by the Panera Bread design language.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
